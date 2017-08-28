@@ -1,4 +1,4 @@
-# cis106Cpp
+# CIS-6
 
 This is literally anything.
 
